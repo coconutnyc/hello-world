@@ -1,0 +1,23 @@
+p {
+color: blue;
+font-size: 50px;
+font-style: bold;
+}
+
+span { 
+  color: red;
+  font-size: 40px;
+  
+}
+
+#blue {
+  color: blue;
+}
+
+body {
+  background-color: lightskyblue;
+}
+
+a {
+  background-color:white;
+}
